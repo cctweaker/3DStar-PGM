@@ -6,7 +6,7 @@ Is intended to be used as a universal programmer for Arduino, ESP8266 and ESP32 
 - 3.3V data lines (works for both 5V and 3.3V devices)
 - standard Arduino pinout for programming
 - solder jumpers to switch from Arduino DTR and CTS pins to ESP RESET and GPIO 0 pins
-- for ESP it uses NodeMCU style reset/program
+- for ESP it uses the NodeMCU style reset/program cycle
 
 # Adapters
 - designed to use adapters for different ESP boards
