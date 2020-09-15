@@ -16,4 +16,5 @@ Is intended to be used as a universal programmer for Arduino, ESP8266 and ESP32 
 - 3DStar connection (ESPContact, ESPbutton, etc.)
 
 #Info
+
 Adapter boards are thought to be used mainly with this programmer but they can also be used with any Arduino serial programmer by adding a few components and changing 2 jumpers.
